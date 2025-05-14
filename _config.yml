@@ -3,3 +3,5 @@ description: "A space-themed jekyll theme"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
+sass:
+  sass_dir: _sass
